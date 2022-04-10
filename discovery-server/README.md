@@ -1,5 +1,3 @@
-# MicroservicesBasics
-
 ## Theory => Service Discovery Pattern
 ### Client Side Discovery [Eureka]
 1. Each service which wants to be discovered register with discovery server.
